@@ -1,0 +1,15 @@
+./positive_images/img_20150607_001003.jpg
+./positive_images/img_20150607_001007.jpg
+./positive_images/img_20150607_001011.jpg
+./positive_images/img_20150607_001015.jpg
+./positive_images/img_20150607_001019.jpg
+./positive_images/img_20150607_001021.jpg
+./positive_images/img_20150607_002558.jpg
+./positive_images/img_20150607_002600.jpg
+./positive_images/img_20150607_002603.jpg
+./positive_images/img_20150607_002607.jpg
+./positive_images/img_20150607_002609.jpg
+./positive_images/img_20150607_002613.jpg
+./positive_images/img_20150607_002616.jpg
+./positive_images/img_20150607_002620.jpg
+./positive_images/img_20150607_002623.jpg
